@@ -9,3 +9,22 @@ Aeura is a modular and extensible AI agent framework designed to interact with u
 - 📒 **Conversation Memory**: Logs user-agent interactions.
 - 🌐 **Future Ready**: Ready to integrate with Solana or other blockchain technologies.
 
+- Task Management
+- NLP Plugin
+- Blockchain Plugin
+- Data Collection Plugin
+- Logging & Error Handling
+
+## Requirements
+
+- Python 3.x
+- OpenAI (for GPT-3 integration)
+- Tweepy (for Twitter API)
+
+## Setup
+
+1. Clone the repository.
+2. Install dependencies:
+
+```bash
+pip install -r requirements.txt
